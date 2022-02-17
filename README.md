@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUNIL KUMAR YADAV</h1>
-<h3 align="center">....</h3>
+<h3 align="center">A Javascript Developer working as Software Developer at <a href="https://mobcoder.in">Mobcoder</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilkuyadav&label=Profile%20views&color=0e75b6&style=flat" alt="sunilkuyadav" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/123sunikr" target="blank"><img src="https://img.shields.io/twitter/follow/123sunikr?logo=twitter&style=for-the-badge" alt="123sunikr" /></a> </p>
 
-- 🔭 I’m currently working on [...](...)
+- 🔭 I’m currently working on **android and iOS app development** using **React Native**.
 
-- 🌱 I’m currently learning **...**
+- 🌱 I’m currently learning **Node.JS** and **MongooDB**
 
-- 👯 I’m looking to collaborate on [...](...)
+- 👯 I’m looking to collaborate on **ReactJS** and **Node.JS**
 
 - 🤝 I’m looking for help with [...](...)
 
