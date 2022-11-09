@@ -5,21 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilkuyadav" alt="sunilkuyadav" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/123sunikr" target="_blank"><img src="https://img.shields.io/twitter/follow/123sunikr?logo=twitter&style=for-the-badge" alt="123sunikr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/123sunilkr" target="_blank"><img src="https://img.shields.io/twitter/follow/123sunikr?logo=twitter&style=for-the-badge" alt="123sunikr" /></a> </p>
 
-- 🔭 I’m currently working on **android and iOS app development** using **React Native**.
+- 🔭 I’m currently working on **full-stack web development** using **React & Node JS**.
 
-- 🌱 I’m currently learning **Node.JS** and **MongooDB**
+- 🌱 I’m currently learning **Web Application Security Testing**
 
 - 👯 I’m looking to collaborate on **ReactJS** and **Node.JS**
 
-- 🤝 I’m looking for help with [...](...)
+- 🤝 I’m looking for help with **Python** and **Artificial intelligence**
 
 - 👨‍💻 All of my projects are available at [Coming soon.....](Coming soon.....)
 
 - 📝 I regularly write articles on [Coming soon.....](Coming soon.....)
 
-- 💬 Ask me about **...**
+- 💬 Ask me about **Javascript** and **Web Security**
 
 - 📫 How to reach me **123sunilkr@gmail.com**
 
@@ -29,7 +29,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/123sunikr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="123sunikr" height="30" width="40" /></a>
+<a href="https://twitter.com/123sunilkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="123sunikr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/123sunil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="123sunil" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sunilkumaryadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sunilkumaryadav" height="30" width="40" /></a>
 </p>
